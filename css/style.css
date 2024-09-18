@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+}
+
+.plot1 {
+  background-color: red;
+  width: 100%;
+}
+
+.plot2 {
+  background-color: hsl(249, 100%, 50%);
+  width: 100%;
+}
+
+.plot3 {
+  background-color: #f312cd;
+  width: 100%;
+}
+
+.plot4 {
+  background-color: hsl(61, 96%, 55%);
+  width: 100%;
+}
+
+.plot5 {
+  background-color: #ffffff;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+}
+
+.hexNum {
+  background-color: hsl(0, 0%, 41%);
+  color: #ffffff;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
